@@ -1,7 +1,7 @@
 # 🎮 Razer Cortex 2025 Gaming Hub  
 
 ![Razer Cortex 2025 Banner](https://cdn2.unrealengine.com/egs-razercortex-razer-s1-2560x1440-9ae63dcb996e.jpg)  
-*Placeholder for Razer Cortex 2025 software image – replace with actual banner for maximum appeal!*  
+ 
 
 🌟 Supercharge your gaming with **Razer Cortex 2025**! This repository is your go-to source for tutorials, tools, and tips to explore Razer Cortex’s advanced features for optimizing PC performance, boosting FPS, and enhancing gameplay in popular titles like Valorant, Fortnite, and CS2. Get started with accessible gaming resources and join our community of gamers in 2025!  
 
